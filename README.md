@@ -1,5 +1,5 @@
 # EV-Battery-Analysis
-Analyzing Factors or Features strongly related to Battery Characteristics of a EV. Helpful in studying the health or life of the Battery of the EV. <br><br> Lizmotors Mobility assessment
+Evaluating Key Factors Influencing EV Battery Performance and Lifespan for Lizmotors Mobility Assessment.
 <hr>
 
 ## Analysing Battery Health or Battery life of a EV
